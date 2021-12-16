@@ -1,3 +1,23 @@
+# data
+/data/*.*
+*.img
+*.tif
+*.tiff
+*.shp
+*.geojson
+*.xml
+*.dbf
+*.prj
+*.gif
+*.qix
+*.shx
+*.lyr
+*.txt
+*.csv
+/SJER/*.*
+/tracts/*.*
+*.qgz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
